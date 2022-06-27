@@ -1,0 +1,24 @@
+@media screen and (max-width:500px){
+
+.user-menu{
+width:130px;
+height:60px;
+position:absolute;
+right:0;
+}
+.search-area{
+width:180px;
+height:30px;
+float:right;
+}
+.search-box{
+width:150px;
+padding:5px;
+margin-top:10px;
+float:left;
+}
+.user-menu{
+display:none
+}
+
+}
